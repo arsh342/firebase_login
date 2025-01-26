@@ -20,8 +20,8 @@ Before you begin, ensure you have the following:
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/arsh342/firebase_login.git
+   cd firebase_login
    ```
 
 2. **Install Dependencies:**
